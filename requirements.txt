@@ -1,0 +1,2 @@
+# NutriTrack uses only the Python standard library for the backend.
+# Python 3.10+ is recommended.
